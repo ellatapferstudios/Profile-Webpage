@@ -1,0 +1,13 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 500 500">
+
+	<path class="st0" d="M419.4,450H80.6C63.7,450,50,436.3,50,419.4V80.6C50,63.7,63.7,50,80.6,50h338.8c16.9,0,30.6,13.7,30.6,30.6
+		v338.8C450,436.3,436.3,450,419.4,450z"/>
+
+    <style>
+        path { fill: #000; }
+        @media (prefers-color-scheme: dark) {
+            path { fill: #FFF; }
+        }
+    </style>
+
+</svg>
